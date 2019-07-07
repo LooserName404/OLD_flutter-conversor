@@ -8,7 +8,7 @@
 .buildlog/
 .history
 .svn/
-buildkey.txt
+buildKey.txt
 key.jks
 
 # IntelliJ related
